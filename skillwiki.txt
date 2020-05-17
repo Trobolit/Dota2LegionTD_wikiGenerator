@@ -1,0 +1,849 @@
+===assassin===
+{| class=wikitable
+!rowspan=1|NPC
+!Skill name
+!Description
+|-
+! creeping_shadow
+| assassinbuilder_wounding_strike
+|
+
+|-
+| - dark_wraith
+| assassinbuilder_critical_strike
+|
+
+|-
+| - - nimble_edge
+| assassinbuilder_coup_de_grace
+|
+
+|-
+|
+| assassinbuilder_crescent
+|
+
+|-
+| - - - bloodknife
+| assassinbuilder_coup_de_grace
+|
+
+|-
+|
+| assassinbuilder_concealment
+|
+
+|-
+|
+| assassinbuilder_crescent
+|
+
+|-
+! jester
+| 
+|
+|-
+| - trickster
+| assassinbuilder_mesmerize
+|
+
+|-
+| - - stealth_assassin
+| assassinbuilder_jinada
+|
+
+|-
+|
+| assassinbuilder_mortal_strike
+|
+
+|-
+| - - blood_drinker
+| assassinbuilder_bloodrage
+|Drives a unit into a bloodthirsty rage during which a unit deals, and takes, increased damage. Units affected by Bloodrage will be healed for a percentage of the max health of any units they kill. Units affected by Bloodrage when killed will heal a percentage of their max health to their killer.
+
+|-
+|
+| assassinbuilder_soul_rend
+|
+
+|-
+! lotus
+| assassinbuilder_psi_blades
+|
+
+|-
+| - nightshade
+| assassinbuilder_psi_blades
+|
+
+|-
+|
+| assassinbuilder_chaos_strike
+|
+
+|-
+| - - timekeeper
+| assassinbuilder_psi_blades
+|
+
+|-
+|
+| assassinbuilder_chaos_strike
+|
+
+|-
+|
+| assassinbuilder_augment_aura
+|Empowers nearby allies, giving them extra damage as a percentage of their base damage.
+
+|-
+! mind_stealer
+| assassinbuilder_hinder
+|
+
+|-
+| - mind_breaker
+| assassinbuilder_disequilibriate
+|
+
+|-
+| - - mind_slicer
+| assassinbuilder_weaken
+|
+
+|-
+| - - silent_champion
+| assassinbuilder_fatigue
+|
+
+|-
+|
+| assassinbuilder_cacophony
+|
+
+|-
+! zealot_scarab
+| assassinbuilder_quill_spray
+|
+
+|-
+| - shadow_hunter
+| assassinbuilder_spiked_carapace
+|
+
+|-
+|
+| assassinbuilder_snot_spray
+|Covers a target and all units around it in snot, causing them to have reduced armor, movement speed and attack speed. They also take damage over the duration. Multiple casts stack and refresh the duration.
+
+|-
+| - - alpha_predator
+| assassinbuilder_spiked_carapace
+|
+
+|-
+|
+| assassinbuilder_snot_spray
+|Covers a target and all units around it in snot, causing them to have reduced armor, movement speed and attack speed. They also take damage over the duration. Multiple casts stack and refresh the duration.
+
+|-
+|
+| assassinbuilder_memento
+|Unit blows itself up dealing damage in an area around it. Automatically activated when HP goes below 75.
+
+
+|}
+===elemental===
+{| class=wikitable
+!rowspan=1|NPC
+!Skill name
+!Description
+|-
+! earthbender
+| 
+|
+|-
+| - earthelemental
+| earthelemental_caustic_finale
+|
+|-
+| - - earthgod
+| tiny_avalanche
+|
+|-
+| - - earthwarrior
+| 
+|
+|-
+! firebender
+| 
+|
+|-
+| - fireelemental
+| fireelemental_flame_guard
+|
+
+|-
+| - - firegod
+| firegod_supernova
+|
+
+|-
+| - - firewarrior
+| firewarrior_sleight_of_fist
+|
+
+|-
+! thunderbender
+| 
+|
+|-
+| - thunderelemental
+| thunderelemental_diabolic_edict
+|
+
+|-
+| - - thundergod
+| thundergod_arc_lightning
+|
+
+|-
+| - - thunderwarrior
+| thunderwarrior_overload
+|
+
+|-
+|
+| thunderwarrior_static_remnant
+|
+
+|-
+! voidbender
+| 
+|
+|-
+| - voidelemental
+| voidelemental_brain_sap
+|
+
+|-
+| - - voidgod
+| voidgod_black_hole
+|
+
+|-
+| - - voidwarrior
+| voidwarrior_time_lock
+|
+
+|-
+! waterbender
+| 
+|
+|-
+| - waterelemental
+| 
+|
+|-
+| - - watergod
+| watergod_ice_vortex
+|
+
+|-
+| - - waterwarrior
+| waterwarrior_rip_tide
+|
+
+
+|}
+===human===
+{| class=wikitable
+!rowspan=1|NPC
+!Skill name
+!Description
+|-
+! archer
+| 
+|
+|-
+| - hunter
+| hunter_headshot
+|
+
+|-
+| - - marksman
+| marksman_headshot
+|
+
+|-
+| - - - sharpshooter
+| sharpshooter_headshot
+|
+
+|-
+| - - - gunner
+| gunner_headshot
+|
+
+|-
+! gyrocopter_mk1
+| gyrocopter_mk1_split_shot
+|
+
+|-
+| - gyrocopter_mk2
+| gyrocopter_mk2_split_shot
+|
+
+|-
+| - - futuristic_gyrocopter
+| futuristic_gyrocopter_call_down
+|
+
+|-
+|
+| futuristic_gyrocopter_split_shot
+|
+
+|-
+! lieutenant
+| lieutenant_vigor_strike
+|The Lieutenant plans their next hit, passively adding a critical strike and lifesteal to their next attack.
+
+|-
+| - general
+| general_vigor_strike
+|The General plans their next hit, passively adding a critical strike and lifesteal to their next attack.
+
+|-
+|
+| human_vladmir
+|
+
+|-
+| - - blademaster
+| blademaster_blade_fury
+|
+
+|-
+|
+| blademaster_blade_dance
+|
+
+|-
+|
+| human_vladmir
+|
+
+|-
+| - - tactician
+| tactician_guardian_angel
+|
+
+|-
+|
+| tactician_storm_bolt
+|
+
+|-
+|
+| tactician_tactical_aura
+|
+
+|-
+|
+| human_vladmir
+|
+
+|-
+! militia
+| 
+|
+|-
+| - footman
+| footman_shield_bash
+|Stuns and deals magic damage to a foe without breaking the rhythm of attacks. Passively blocks some damage from incoming phyiscal attacks.
+
+|-
+| - - soldier
+| soldier_shield_bash
+|Stuns and deals magic damage to a foe without breaking the rhythm of attacks. Passively blocks some damage from incoming phyiscal attacks.
+
+|-
+| - - - spearman
+| spearman_shield_bash
+|Stuns and deals magic damage to a foe without breaking the rhythm of attacks. Passively blocks some damage from incoming phyiscal attacks.
+
+|-
+| - - - paladin
+| paladin_purification
+|
+
+|-
+! novice
+| novice_chain_fade
+|Throws a bolt of energy that jumps between enemies, dealing damage and lowering attack damage for the duration.
+
+|-
+| - mage
+| mage_chain_fade
+|Throws a bolt of energy that jumps between enemies, dealing damage and lowering attack damage for the duration.
+
+|-
+|
+| mage_crystal_nova
+|A burst of damaging frost slows enemy movement and attack rate in the targeted area.
+
+|-
+| - - archmage
+| archmage_chain_fade
+|Throws a bolt of energy that jumps between enemies, dealing damage and lowering attack damage for the duration.
+
+|-
+|
+| archmage_crystal_nova
+|A burst of damaging frost slows enemy movement and attack rate in the targeted area.
+
+|-
+| - - - archbishop
+| archbishop_shadow_wave
+|Sends out a bolt of power that arcs between allies, healing them while damaging any units standing nearby. Archbishop is always healed by Shadow Wave. Damage to each enemy is not multiplied by healing multiple adjacent units.
+
+|-
+|
+| archbishop_healing_aura
+|
+
+|-
+| - - - icewrack_grandmaster
+| icewrack_grandmaster_chilled_blood
+|Hardens the blood of nearby allies, making them more resistant to harm.
+
+|-
+|
+| icewrack_grandmaster_freezing_field
+|Icy explosions fall on the positions of random enemies, dealing impact damage in a small area of effect, and chilling a larger area of effect, slowing and damaging over time.
+
+|-
+| - - - soundmaster
+| soundmaster_deafening_blast
+|Throws a wave of pure sound directly north or south, pushing enemies back while disabling them, then stunning them.
+
+|-
+|
+| soundmaster_lightning_storm
+|Lightning jumps between enemies, dealing damage and then decreasing each target's resistance to further magic damage.
+
+
+|}
+===nature===
+{| class=wikitable
+!rowspan=1|NPC
+!Skill name
+!Description
+|-
+! bear
+| axe_berserkers_call
+|
+|-
+| - druid_bear
+| lone_druid_spirit_bear_entangle
+|
+|-
+|
+| axe_berserkers_call
+|
+|-
+| - iron_bear
+| iron_bear_fury_swipes
+|
+
+|-
+! bug
+| bug_geminate_attack
+|
+
+|-
+| - big_bug
+| big_bug_geminate_attack
+|
+
+|-
+| - - very_big_bug
+| very_big_bug_geminate_attack
+|
+
+|-
+! centaur
+| antimage_spell_shield
+|
+|-
+| - big_centaur
+| antimage_spell_shield
+|
+|-
+|
+| centaur_hoof_stomp_datadriven
+|
+
+|-
+| - centaur_warrunner
+| centaur_warrunner_great_cleave
+|
+
+|-
+! hyena
+| hyena_nethertoxin
+|
+
+|-
+| - agressive_boar
+| agressive_boar_nethertoxin
+|
+
+|-
+! spider
+| broodmother_poison_sting
+|
+|-
+| - broodmother
+| brood_spawn_spiderlings
+|
+
+|-
+|
+| broodmother_poison_sting
+|
+|-
+! treant
+| treant_vampiric_aura
+|
+
+|-
+| - shroom
+| shroom_corrosive_skin
+|
+
+|-
+|
+| shroom_venomous_gale
+|
+
+|-
+| - flower_treant
+| flower_treant_skadi
+|
+
+|-
+|
+| treant_vampiric_aura
+|
+
+|-
+| - treebeard
+| treebeard_overgrowth
+|
+
+|-
+|
+| treebeard_synergy
+|Doubles the passive ability of Nature Builder
+
+
+
+|}
+===spirit===
+{| class=wikitable
+!rowspan=1|NPC
+!Skill name
+!Description
+|-
+! earth_spirit
+| 
+|
+|-
+| - kaolin
+| earth_spirit_boulder_smash
+|Earth Spirit smashes the target enemy, sending them in the direction he is facing. The travelling unit damages all enemy units it hits.
+
+|-
+| - - great_kaolin
+| earth_spirit_boulder_smash
+|Earth Spirit smashes the target enemy, sending them in the direction he is facing. The travelling unit damages all enemy units it hits.
+
+|-
+| - - spirit_king
+| wraith_king_wraithfire_blast_lua
+|Spirit King sears an enemy unit with spectral fire, dealing damage and stunning, then dealing damage over time and slowing the target.
+
+|-
+! ember_spirit
+| flame_guard_datadriven
+|
+|-
+| - xin
+| flame_guard_datadriven
+|
+|-
+| - - great_xin
+| flame_guard_datadriven
+|
+|-
+| - - void_spirit
+| void_spirit_resonant_pulse_lua
+|Void Spirit wraps himself in a protective shield that absorbs physical damage and emits a single damaging pulse around him. The shield gains increased damage absorption for each enemy hero the pulse hits.
+
+|-
+! lost_spirit
+| 
+|
+|-
+| - io
+| wisp_overcharge
+|Io gains bonus attack speed and damage reduction, at the cost of draining a percentage of its current health per second.
+
+|-
+| - - wisp
+| wisp_overcharge
+|Io gains bonus attack speed and damage reduction, at the cost of draining a percentage of its current health per second.
+
+|-
+! storm_spirit
+| storm_spirit_static_remnant
+|Creates an explosively charged image of Storm Spirit that lasts 10 seconds and will detonate and deal damage if an enemy unit comes near it.
+
+|-
+|
+| storm_spirit_overload
+|Casting a spell creates an electrical charge, which is released in a burst on his next attack, dealing damage and slowing nearby enemies.
+
+|-
+| - raijin
+| storm_spirit_static_remnant
+|Creates an explosively charged image of Storm Spirit that lasts 10 seconds and will detonate and deal damage if an enemy unit comes near it.
+
+|-
+|
+| storm_spirit_overload
+|Casting a spell creates an electrical charge, which is released in a burst on his next attack, dealing damage and slowing nearby enemies.
+
+|-
+| - - thunderkeg
+| storm_spirit_static_remnant
+|Creates an explosively charged image of Storm Spirit that lasts 10 seconds and will detonate and deal damage if an enemy unit comes near it.
+
+|-
+|
+| storm_spirit_overload
+|Casting a spell creates an electrical charge, which is released in a burst on his next attack, dealing damage and slowing nearby enemies.
+
+|-
+| - - lightning_spirit
+| thundergod_arc_lightning
+|
+
+|-
+! vengeful_spirit
+| 
+|
+|-
+| - skywrath
+| vengefulspirit_magic_missile
+|Fires a magic missile at an enemy unit, stunning and dealing damage.
+
+|-
+| - - shendelzare
+| vengefulspirit_magic_missile
+|Fires a magic missile at an enemy unit, stunning and dealing damage.
+
+
+|}
+===undead===
+{| class=wikitable
+!rowspan=1|NPC
+!Skill name
+!Description
+|-
+! acolyte
+| acolyte_nether_blast
+|An exploding pulse deals damage to enemies and structures in the area.
+
+|-
+| - disciple
+| improved_nether_blast
+|An exploding pulse deals damage to enemies and structures in the area.
+
+|-
+| - - follower
+| perfected_nether_blast
+|An exploding pulse deals damage to enemies and structures in the area.
+
+|-
+| - - - recomposer
+| recompose
+|Recomposer rips health away from all nearby units and uses it to heal an ally, or damage an enemy.
+
+|-
+|
+| perfected_nether_blast
+|An exploding pulse deals damage to enemies and structures in the area.
+
+|-
+| - - - cultist
+| flesh_hunger
+|Infuses an ally with an immense surge of energy, increasing their attack speed.
+
+|-
+|
+| perfected_nether_blast
+|An exploding pulse deals damage to enemies and structures in the area.
+
+|-
+| - - - interrupter
+| hell_spikes
+|Slams the ground, causing tentacles to erupt in all directions, damaging and stunning all nearby enemy units.
+
+|-
+|
+| perfected_nether_blast
+|An exploding pulse deals damage to enemies and structures in the area.
+
+|-
+! mutilated_butcher
+| 
+|
+|-
+| - abomination
+| pudge_rot_lua
+|A toxic cloud that deals intense damage and slows movement--harming not only enemy units but Unit himself.
+
+|-
+| - - devourer
+| pudge_dismember_lua
+|CHANNELED - Chows down on an enemy unit, disabling it and dealing damage over time and gets healed for the same amount he damages.
+
+|-
+|
+| improved_pudge_rot_lua
+|A improved toxic cloud that deals intense damage and slows movement--harming not only enemy units but Unit himself.
+
+|-
+! nether_drake
+| 
+|
+|-
+| - corruptor
+| viper_poison_attack_lua
+|Adds an effect to normal attack that slows attack and movement speed while dealing damage over time based on how low the target is.
+
+|-
+| - - possessed_corruptor
+| viper_poison_attack_lua
+|Adds an effect to normal attack that slows attack and movement speed while dealing damage over time based on how low the target is.
+
+|-
+! tormented_soul
+| 
+|
+|-
+| - evil_spirit
+| splash_attack
+|Splits his shot into several hits. These hits deal a lower percent of her normal damage.
+
+|-
+| - - tormentor
+| splash_attack
+|Splits his shot into several hits. These hits deal a lower percent of her normal damage.
+
+|-
+|
+| nevermore_dark_lord_datadriven
+|This unit's presence reduces the armor of nearby enemies.
+
+|-
+| - - - the_forgotten_one
+| splash_attack
+|Splits his shot into several hits. These hits deal a lower percent of her normal damage.
+
+|-
+|
+| nevermore_dark_lord_datadriven
+|This unit's presence reduces the armor of nearby enemies.
+
+|-
+|
+| ursa_overpower_datadriven
+|The Forgotten One gains increased attack speed for a number of subsequent attacks.
+
+|-
+! vampire
+| 
+|
+|-
+| - greater_vampire
+| feast
+|This Unit's attacks damage enemies and heal himself for a percentage of his target's current health.
+
+|-
+| - - vampire_king
+| feast
+|This Unit's attacks damage enemies and heal himself for a percentage of his target's current health.
+
+|-
+|
+| darkness
+|While Darkness is in effect, enemy units have their vision range reduced.
+While Darkness is in effect, enemy units have their vision range reduced.
+
+|-
+| - - lifestealer
+| feast
+|This Unit's attacks damage enemies and heal himself for a percentage of his target's current health.
+
+|-
+| - - - consumer
+| feast
+|This Unit's attacks damage enemies and heal himself for a percentage of his target's current health.
+
+|-
+|
+| rage
+|Launch into a maddened rage, becoming Spell Immune, 100% resistant magic damage and gaining increased attack speed.
+
+|-
+! zombie
+| 
+|
+|-
+| - greater_zombie
+| frostmourne_datadriven
+|Strikes an enemy with Bacteria on each attack, causing all units who attack the slowed enemy to gain increased movement speed, along with faster attack speed, for a limited time.
+
+|-
+| - - golem
+| frostmourne_datadriven
+|Strikes an enemy with Bacteria on each attack, causing all units who attack the slowed enemy to gain increased movement speed, along with faster attack speed, for a limited time.
+
+|-
+| - - - corrupted_golem
+| magic_resistance
+|Protects nearby allies against weaker magics, granting them magic resistance.
+
+|-
+|
+| frostmourne_datadriven
+|Strikes an enemy with Bacteria on each attack, causing all units who attack the slowed enemy to gain increased movement speed, along with faster attack speed, for a limited time.
+
+|-
+| - - - flesh_ripper
+| frenzy
+|Flesh Ripper works himself into a frenzy, increasing his attack speed.
+
+|-
+|
+| sandking_caustic_finale_datadriven
+|Injects a venom upon attack that causes enemy units to violently explode when its timer expires, or when the unit dies, damaging and slowing nearby enemies. Deals less damage if its timer expires.
+
+
+|}

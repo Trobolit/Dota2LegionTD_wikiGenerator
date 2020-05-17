@@ -1,0 +1,20 @@
+earthbender 	70 	70 	1 	1 	310 	47.5 	1.0 	90 	2 		
+- earthelemental 	200 	270 	1 	2 	640 	151.75 	0.7 	90 	4 		
+- - earthgod 	190 	460 	1 	3 	1100 	288.75 	0.74 	150 	5 		
+- - earthwarrior 	120 	390 	1 	4 	890 	101.625 	0.6 	95 	3 		
+firebender 	75 	75 	1 	1 	70 	63.125 	0.65 	500 	0 		
+- fireelemental 	180 	255 	1 	2 	710 	108.75 	0.76 	100 	2 		
+- - firegod 	270 	525 	1 	3 	800 	302.5 	0.65 	260 	0 		
+- - firewarrior 	310 	565 	1 	4 	900 	269 	0.7 	100 	4 		
+thunderbender 	65 	65 	1 	1 	85 	34.75 	0.43 	370 	2 		
+- thunderelemental 	130 	195 	1 	2 	600 	75.25 	0.8 	250 	3 		
+- - thundergod 	180 	375 	1 	3 	780 	58.75 	0.4 	600 	4 		
+- - thunderwarrior 	250 	445 	1 	4 	720 	109.5 	0.65 	200 	4 		
+voidbender 	100 	100 	1 	1 	360 	38.375 	0.6 	90 	3 		
+- voidelemental 	90 	190 	1 	2 	350 	98.75 	0.73 	375 	1 		
+- - voidgod 	410 	600 	1 	3 	1000 	262.5 	0.61 	400 	5 		
+- - voidwarrior 	210 	400 	1 	4 	630 	155 	0.5 	90 	3 		
+waterbender 	45 	45 	1 	1 	220 	25.375 	0.62 	90 	1 		
+- waterelemental 	85 	130 	1 	2 	130 	59.125 	0.4 	520 	3 		
+- - watergod 	95 	225 	1 	3 	500 	147.5 	0.9 	375 	3 		
+- - waterwarrior 

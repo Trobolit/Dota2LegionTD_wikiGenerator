@@ -1,0 +1,17 @@
+bear											
+druid_bear											
+iron_bear											
+bug											
+big_bug											
+very_big_bug											
+centaur											
+big_centaur											
+centaur_warrunner											
+hyena											
+agressive_boar											
+spider											
+broodmother											
+treant											
+shroom											
+flower_treant											
+treebeard

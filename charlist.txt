@@ -1,0 +1,145 @@
+assasin
+
+creeping_shadow 125
+- dark_wraith 175 300
+- - nimble_edge 250 550
+- - - bloodknife 150 700
+jester 140
+- trickster 225 365
+- - stealth_assassin 220 585
+- - blood_drinker 300 665
+lotus 160
+- nightshade 200 360
+- - timekeeper 200 560
+mind_stealer 50
+- mind_breaker 110 160
+- - mind_slicer 170 330
+- - silent_champion 200 360
+zealot_scarab 20
+- shadow_hunter 100 120
+- - alpha_predator 200 320
+
+
+elemental
+
+earthbender 70
+- earthelemental 200 270
+- - earthgod 190 460
+- - earthwarrior 120 390
+firebender 75
+- fireelemental 180 255
+- - firegod 270 525
+- - firewarrior 310 565
+thunderbender 65
+- thunderelemental 130 195
+- - thundergod 180 375
+- - thunderwarrior 250 445
+voidbender 100
+- voidelemental 90 190
+- - voidgod 410 600
+- - voidwarrior 210 400
+waterbender 45
+- waterelemental 85 130
+- - watergod 95 225
+- - waterwarrior 135 265
+
+
+human
+
+archer 40
+- hunter 70 110
+- - marksman 100 210
+- - - sharpshooter 130 340
+- - - gunner 130 340
+gyrocopter_mk1 130
+- gyrocopter_mk2 210 340
+- - futuristic_gyrocopter 320 660
+lieutenant 240
+- general 305 545
+- - blademaster 300 845
+- - tactician 450 995
+militia 35
+- footman 70 105
+- - soldier 95 200
+- - - spearman 175 375
+- - - paladin 130 330
+novice 80
+- mage 130 210
+- - archmage 160 370
+- - - archbishop 350 720
+- - - icewrack_grandmaster 400 770
+- - - soundmaster 450 820
+
+
+nature
+
+bear 130
+- druid_bear 240 370
+- iron_bear 180 310
+bug 45
+- big_bug 70 115
+- - very_big_bug 120 235
+centaur 250
+- big_centaur 300 550
+- centaur_warrunner 350 600
+hyena 180
+- agressive_boar 240 420
+spider 25
+- broodmother 65 90
+treant 130
+- shroom 250 380
+- flower_treant 200 330
+- treebeard 550 680
+
+
+spirit
+
+earth_spirit 130
+- kaolin 125 255
+- - great_kaolin 150 405
+- - spirit_king 200 455
+ember_spirit 200
+- xin 160 360
+- - great_xin 200 560
+- - void_spirit 250 610
+lost_spirit 50
+- io 85 135
+- - wisp 150 285
+storm_spirit 150
+- raijin 135 285
+- - thunderkeg 150 435
+- - lightning_spirit 175 460
+vengeful_spirit 85
+- skywrath 100 185
+- - shendelzare 120 305
+
+
+undead
+
+
+acolyte 105
+- disciple 110 215
+- - follower 120 335
+- - - recomposer 180 515
+- - - cultist 200 535
+- - - interrupter 250 585
+mutilated_butcher 70
+- abomination 65 135
+- - devourer 165 300
+nether_drake 110
+- corruptor 105 215
+- - possessed_corruptor 165 380
+tormented_soul 135
+- evil_spirit 150 285
+- - tormentor 200 485
+- - - the_forgotten_one 250 735
+vampire 110
+- greater_vampire 120 230
+- - vampire_king 155 385
+- - lifestealer 130 360
+- - - consumer 165 525
+zombie 35
+- greater_zombie 75 110
+- - golem 95 205
+- - - corrupted_golem 135 340
+- - - flesh_ripper 155 360
